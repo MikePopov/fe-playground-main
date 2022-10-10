@@ -8,14 +8,15 @@ The app works and it is enough to run `npm run e2e` to run the tests.
 
 ## Expectations
 
-- Please checkout a new branch at `e2e/{your-name} and commit your changes there.
-- Please write **all** tests in the `/e2e` directory.
-  Additionally, you are also encouraged to make changes to any file in the `/src` directory if necessary.
+Additionally, you are also encouraged to make changes to any file in the `/src` directory if necessary.
+
 - Please keep in mind that code quality and cleanliness, ie. adherence to best practices will be evaluated.
 - Please write as many or as few tests as you like.
 - Please do not take more than 90 minutes for the task
 
 ## Task
+
+Write Test plan (test cases, check lists etc.) to test that the application
 
 Write automated tests (using Playwright/Cypress) to test that the application
 
